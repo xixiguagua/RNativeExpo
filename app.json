@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+     "ios": {
+     "bundleIdentifier": "org.rnexpo.exp"
+   },
+   "android": {
+     "package": "org.rnexpo.exp"
+   }
+  }
+}

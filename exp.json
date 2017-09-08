@@ -1,0 +1,12 @@
+ {
+   "name": "RNativeExpo",
+   "version": "1.0.0",
+   "slug": "RNative with Expo",
+   "sdkVersion": "20.0.0",
+   "ios": {
+     "bundleIdentifier": "org.rnplay.exp"
+   },
+   "android": {
+     "package": "org.rnplay.exp"
+   }
+ }
